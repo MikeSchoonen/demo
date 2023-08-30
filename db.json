@@ -1,8 +1,26 @@
 {
-    "result": {
-        "id": "D4F28578-51BD-40F4-A8BD-387668E06EF8",
-        "name": "John Sundell",
-        "twitterHandle": "johnsundell",
-        "gitHubUsername": "johnsundell"
+    "success": true,
+    "data": {
+        "_id": "607ddc373110231130bfb9a7",
+        "role": "admin",
+        "isEmailConfirmed": true,
+        "name": "Mike Schoonen",
+        "email": "mike.schoonen@hotmail.com",
+        "companies": [
+            {
+                "role": "key-user",
+                "_id": "607ddcb43110231130bfb9a9",
+                "company": "607ddcb43110231130bfb9a8"
+            },
+            {
+                "role": "admin",
+                "_id": "60aaae3be584244790d46f46",
+                "company": "60aaae3be584244790d46f45"
+            }
+        ],
+        "createdAt": "2021-04-19T19:38:31.913Z",
+        "__v": 0,
+        "confirmEmailToken": null,
+        "changedAt": "2023-07-31T17:57:39.024Z"
     }
 }
