@@ -83,7 +83,7 @@
                 "email": "mike.schoonen@hotmail.com",
                 "companies": [
                     {
-                        "role": "key-user",
+                        "role": "admin",
                         "_id": "607ddcb43110231130bfb9a9",
                         "company": "607ddcb43110231130bfb9a8"
                     },
