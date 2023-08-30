@@ -1,28 +1,103 @@
 {
     "result": {
         "success": true,
-        "data": {
-            "_id": "607ddc373110231130bfb9a7",
-            "role": "admin",
-            "isEmailConfirmed": true,
-            "name": "Mike Schoonen",
-            "email": "mike.schoonen@hotmail.com",
-            "companies": [
-                {
-                    "role": "key-user",
-                    "_id": "607ddcb43110231130bfb9a9",
-                    "company": "607ddcb43110231130bfb9a8"
-                },
-                {
-                    "role": "admin",
-                    "_id": "60aaae3be584244790d46f46",
-                    "company": "60aaae3be584244790d46f45"
-                }
-            ],
-            "createdAt": "2021-04-19T19:38:31.913Z",
-            "__v": 0,
-            "confirmEmailToken": null,
-            "changedAt": "2023-07-31T17:57:39.024Z"
-        }
+        "count": 7,
+        "pagination": {},
+        "data": [
+            {
+                "_id": "614f8601becb2400045b9b3a",
+                "role": "user",
+                "isEmailConfirmed": false,
+                "name": "Test User",
+                "email": "test2@mikeschoonen.nl",
+                "companies": [],
+                "createdAt": "2021-09-25T20:26:41.586Z",
+                "__v": 0,
+                "confirmEmailToken": "9e4ca29ca3446d204b683a96db1209e23d4b057ec772c73647d0dc729409b7f8",
+                "changedAt": "2023-08-30T13:59:01.867Z"
+            },
+            {
+                "_id": "60db97f3acb52d19b42f3081",
+                "role": "user",
+                "isEmailConfirmed": false,
+                "name": "Hello",
+                "email": "afaf@a.com",
+                "companies": [],
+                "createdAt": "2021-06-29T22:00:19.412Z",
+                "__v": 0,
+                "confirmEmailToken": "3a930020ec5ccab84041b2246ab9a7af09b57e470d9aef13c4718b20d0bfa265",
+                "changedAt": "2023-08-30T13:59:01.868Z"
+            },
+            {
+                "_id": "60db97d5acb52d19b42f3080",
+                "role": "user",
+                "isEmailConfirmed": false,
+                "name": "Hello World",
+                "email": "ga@hotmail.com",
+                "companies": [],
+                "createdAt": "2021-06-29T21:59:49.350Z",
+                "__v": 0,
+                "confirmEmailToken": "5ff1ae41efb81848940fce0354cc126412b8570c7c9a212ead45595a13795552",
+                "changedAt": "2023-08-30T13:59:01.868Z"
+            },
+            {
+                "_id": "60db97874cb130183011dbc6",
+                "role": "user",
+                "isEmailConfirmed": false,
+                "name": "Hello World",
+                "email": "gamy-agency@hotmail.com",
+                "companies": [],
+                "createdAt": "2021-06-29T21:58:31.978Z",
+                "__v": 0,
+                "confirmEmailToken": "150fb99b6dc161e01634f033050580b4ac6b4f55327fd280c5dc27feea6af73b",
+                "changedAt": "2023-08-30T13:59:01.868Z"
+            },
+            {
+                "_id": "60db97504cb130183011dbc4",
+                "role": "user",
+                "isEmailConfirmed": false,
+                "name": "Hello World",
+                "email": "hello@world.com",
+                "companies": [],
+                "createdAt": "2021-06-29T21:57:36.146Z",
+                "__v": 0,
+                "confirmEmailToken": "81b0ab8cde8bfc2a9e278334ae2ad8294a208de5c72da414fd40688130352e22",
+                "changedAt": "2023-08-30T13:59:01.868Z"
+            },
+            {
+                "_id": "60d7146cac14f200049572bf",
+                "role": "user",
+                "isEmailConfirmed": false,
+                "name": "Test Gebruiker",
+                "email": "test@mikeschoonen.nl",
+                "companies": [],
+                "createdAt": "2021-06-26T11:50:04.674Z",
+                "__v": 0,
+                "changedAt": "2023-08-30T13:59:01.868Z"
+            },
+            {
+                "_id": "607ddc373110231130bfb9a7",
+                "role": "admin",
+                "isEmailConfirmed": true,
+                "name": "Mike Schoonen",
+                "email": "mike.schoonen@hotmail.com",
+                "companies": [
+                    {
+                        "role": "key-user",
+                        "_id": "607ddcb43110231130bfb9a9",
+                        "company": "607ddcb43110231130bfb9a8"
+                    },
+                    {
+                        "role": "admin",
+                        "_id": "60aaae3be584244790d46f46",
+                        "company": "60aaae3be584244790d46f45"
+                    }
+                ],
+                "createdAt": "2021-04-19T19:38:31.913Z",
+                "__v": 0,
+                "confirmEmailToken": null,
+                "changedAt": "2023-07-31T17:57:39.024Z"
+            }
+        ]
     }
 }
